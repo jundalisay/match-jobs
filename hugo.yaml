@@ -13,12 +13,12 @@ params:
   author:
   author_image: /images/defaults/author.jpg
   og_image: /images/defaults/featured_image.jpg
-  moto: "Welcome to ABC Jobs site."
+  moto: "Welcome to the Match Jobs site."
   description: "Employers and HR please click below. Applicants please click above"
   google_analytics_id: '' # @NOTE: To remove the G2A tag, juste leave this key to an empty string.
   cta:
-    text: Book a meeting
-    url: https://www.youtube.com/watch?v=oHg5SJYRHA0
+    text: Create a job opening as Employer
+    url: /new
   footer:
     social_url: https://superphysics.org
     social_username: 'Superphysics'
